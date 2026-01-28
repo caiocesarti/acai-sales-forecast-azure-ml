@@ -125,12 +125,12 @@ Monitoramento de desempenho em produção
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/[seu-usuario]/acai-ml.git
+git clone https://github.com/caiocesarti/acai-sales-forecast-azure-ml.git
 ```
 
 2. Acesse o diretório:
 ```bash
-cd acai-ml
+cd acai-sales-forecast-azure-ml
 ```
 
 3. Abra o notebook:
