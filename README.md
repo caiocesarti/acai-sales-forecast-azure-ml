@@ -1,8 +1,7 @@
 # 🍧 Previsão de Vendas de Açaí com Machine Learning no Azure
 📌 Visão Geral
 
-Este projeto tem como objetivo desenvolver um modelo de Machine Learning capaz de prever a demanda diária de açaí com base na temperatura, utilizando recursos do Azure Machine Learning.
-A solução combina treinamento manual, pipelines visuais, Automated ML e infraestrutura em cloud, resultando em um projeto completo e reproduzível para portfólio profissional.
+Este projeto tem como objetivo desenvolver um modelo de Machine Learning capaz de prever a demanda diária de açaí com base na temperatura, utilizando recursos do Azure Machine Learning. A solução combina treinamento manual, pipelines visuais, Automated ML e infraestrutura em cloud, sendo desenvolvida como parte de um desafio prático da DIO e resultando em um projeto completo.
 
 ## 📊 Conteúdo
 
